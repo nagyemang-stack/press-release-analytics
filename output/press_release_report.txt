@@ -1,0 +1,40 @@
+======================================================================
+PRESS RELEASE PERFORMANCE — EXECUTIVE SUMMARY
+======================================================================
+
+Total Media Outlets Targeted: 12
+Total Impressions: 322,721
+Average Pickup Rate: 77.4%
+Average Click-Through Rate: 10.15%
+
+──────────────────────────────────────────────────
+TIER COMPARISON
+──────────────────────────────────────────────────
+  Tier 1 Average Pickup:  81.4%
+  Tier 2 Average Pickup:  73.4%
+  Lift (Tier 1 vs Tier 2): 10.9%
+
+──────────────────────────────────────────────────
+UTM TRACKING ANALYSIS
+──────────────────────────────────────────────────
+  UTM-Tracked CTR:  11.07%
+  Organic CTR:      5.53%
+  UTM Lift:         100.2x
+
+──────────────────────────────────────────────────
+GEOGRAPHIC DISTRIBUTION
+──────────────────────────────────────────────────
+  Asia Pacific        :   8.5% (Impressions: 27,445)
+  Europe              :  27.6% (Impressions: 88,980)
+  North America       :  63.9% (Impressions: 206,296)
+
+──────────────────────────────────────────────────
+PEAK COVERAGE
+──────────────────────────────────────────────────
+  Peak Day: Day 1
+  Peak Daily Impressions: 5,149
+  30-Day Cumulative: 32,901
+
+======================================================================
+END OF REPORT
+======================================================================
